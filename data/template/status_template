@@ -1,0 +1,22 @@
+
+Dear {CUSTOMER_FIRST_NAME},
+
+Thank you for your recent order - {ORDER_ID}({ORDER_STATUS}). 
+We are pleased to inform you that the items listed below are now on the way to you.
+
+{ITEM_TITLE}
+
+ 
+
+Your order has been shipped to the following address:
+{SHIPMENT_ADDRESS}
+
+ 
+
+Your order should reach you within {ESTIMATED_DELIVERY_TIME} days.
+
+It has been a pleasure to serve you, and please do not hesitate to contact us should you have any questions or remarks related to your order. You should be able to track your order with tracking id - {TRACKING_ID} at our online shop - {SHOPPING_WEBSITE}. 
+
+
+Again, thank you for choosing us.
+- Charlie(A bot)

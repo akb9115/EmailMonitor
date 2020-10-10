@@ -1,0 +1,15 @@
+
+Dear {CUSTOMER_FIRST_NAME},
+
+Your shipment began {SHIPMENT_DATE} via {SHIPMENT_SERVICE_NAME} (takes {SHIPMENT_DURATION} business days) to reach your place:
+{SHIPMENT_ADDRESS}
+
+
+We tracked the order {ORDER_ID} to be at the following location:
+{TRACKING_POSITION}
+
+You can always track your order with tracking id - {TRACKING_ID} at our online shop - {SHOPPING_WEBSITE}. 
+
+
+We will ensure to get your order delivered in time.
+- Charlie(A bot)

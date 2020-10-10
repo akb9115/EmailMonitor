@@ -1,0 +1,10 @@
+
+Dear {CUSTOMER_FIRST_NAME},
+
+We received a cancel request for order - {ORDER_ID}({ORDER_STATUS}). 
+We hope you found another better product at our website that you have ordered.
+
+It has been a pleasure to serve you, and please do not hesitate to let us know if it's us or our quality of service that has caused you to cancel the order.
+
+Again, thank you for choosing us.
+- Charlie(A bot)

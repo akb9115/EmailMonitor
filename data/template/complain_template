@@ -1,0 +1,10 @@
+
+Dear {CUSTOMER_FIRST_NAME},
+
+We received a complain for order - {ORDER_ID}({ORDER_STATUS}). 
+
+It has been a pleasure to serve you, and someone from our organization will reach out to you to resolve the complain.
+Your complain number registered with us is - {COMPLAIN_NUMBER}.
+
+Again, thank you for choosing us.
+- Charlie(A bot)
